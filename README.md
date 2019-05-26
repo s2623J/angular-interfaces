@@ -1,27 +1,18 @@
-# Angularinterface
+# Angular Interfaces
+Coursework on Angular Interfaces
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+1. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
 
-## Development server
+    `git clone https://github.com/s2623J/angular-interfaces.git`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+2. CD to the folder
 
-## Code scaffolding
+    `cd angular-interfaces`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+3. Run the following to install the project dependencies:
 
-## Build
+    `npm install`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+4. Run the "ng serve -o" command to build the code, watch for file changes, and serve up the site locally:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+    `ng serve -o`
